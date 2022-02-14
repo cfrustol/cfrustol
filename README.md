@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cfrustol
 - 👀 I’m interested in learning how to write and design my own website.
-- 🌱 I’m currently learning with the Odin Project.
+- 🌱 I’m currently learning with Coding Dojo.
 - 💞️ I’m looking to collaborate on anything I think is interesting.
 - 📫 How to reach me 
 
